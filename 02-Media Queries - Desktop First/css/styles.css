@@ -46,3 +46,9 @@ p {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+@media (max-width:800px) {
+    h1 {
+        font-size: 3rem;
+    }
+}
