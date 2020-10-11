@@ -40,3 +40,12 @@ p {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.contenedor {
+    max-width: 1200px;
+    margin 0 auto;
+}
+
+.contenedor {
+    max-width: 100%;
+}
